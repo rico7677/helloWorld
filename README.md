@@ -1,2 +1,3 @@
 # helloWorld
 my first repository
+Hello, this is my first time creating a txt on github...
